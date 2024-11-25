@@ -11,4 +11,4 @@ int main ( ) {
     printf( "%s %s , TC , RMUTL , Chiang Mai , Thailand " , name , lastname ) ;
 
     return 0 ;
-}
+} // end function
