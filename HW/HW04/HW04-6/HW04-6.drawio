@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
+  <diagram name="Page-1" id="aZouzwrpQX-t-7sOcDAF">
+    <mxGraphModel dx="965" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xENGMQrBYkbRyV2JhtPs-8" target="xENGMQrBYkbRyV2JhtPs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-8" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="665" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xENGMQrBYkbRyV2JhtPs-10" target="xENGMQrBYkbRyV2JhtPs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-10" value="กำหนดตัวแปรรับ้อมูล รัหัสประจำตัวพนักงาน 10 ตำแหน่ง&lt;div&gt;จำนวนชั่วโมงทำงาน รายนได้ต่อชั่วโมง&amp;nbsp;&lt;/div&gt;&lt;div&gt;และผลลัพธ์ต่อชั่วโมง&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xENGMQrBYkbRyV2JhtPs-12" target="xENGMQrBYkbRyV2JhtPs-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-12" value="ป้อนรหัสประจำตัวพนักงานรปแบบ&lt;br&gt;charector" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xENGMQrBYkbRyV2JhtPs-14" target="xENGMQrBYkbRyV2JhtPs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-14" value="ป้อนค่าว่าทำงานกี่ชั่วโมง" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="440" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xENGMQrBYkbRyV2JhtPs-16" target="xENGMQrBYkbRyV2JhtPs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-16" value="ป้อนค่าจำนวนเงินที่าได้ต่อชั่าวโมง" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="580" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xENGMQrBYkbRyV2JhtPs-18" target="xENGMQrBYkbRyV2JhtPs-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-18" value="สูตรคำนวนเงินที่ได้ทั้งหมดคือ&lt;div&gt;ผลลัพธ์ เท่ากับ ชั่วโมง คูณ จำนวนเงินที่ได้ต่อชั่วโมง&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="730" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xENGMQrBYkbRyV2JhtPs-20" target="xENGMQrBYkbRyV2JhtPs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-20" value="จะได้ผลลัพธ์ จำนวนเงินทั้งหมด" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="860" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xENGMQrBYkbRyV2JhtPs-22" target="xENGMQrBYkbRyV2JhtPs-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-22" value="รหัสพนักงาน" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="990" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xENGMQrBYkbRyV2JhtPs-23" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="665" y="1130" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
