@@ -8,7 +8,7 @@ int main ( ) {
     scanf( "%d %d" , &base , &high ) ;
 
     answer  = 0.5 * base * high ;
-    printf( " answer = %.2f" , answer ) ;
+    printf( " Triagle Area = %.2f" , answer ) ;
 
 
     return 0 ;
