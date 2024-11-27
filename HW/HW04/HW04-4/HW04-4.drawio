@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
+  <diagram name="Page-1" id="hFYbqFYYM-IWJZV0FECP">
+    <mxGraphModel dx="965" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ik8ZlOUK2pTwdC3BzMRn-1" target="Ik8ZlOUK2pTwdC3BzMRn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-1" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ik8ZlOUK2pTwdC3BzMRn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ik8ZlOUK2pTwdC3BzMRn-2" target="Ik8ZlOUK2pTwdC3BzMRn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-2" value="กำหนดตัวแปร เพื่อใส่ค่าความสูงและฐาน และตัวแปรพื้นที่" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ik8ZlOUK2pTwdC3BzMRn-5" target="Ik8ZlOUK2pTwdC3BzMRn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-5" value="กรอกค่าความสูงแล้วฐาน" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ik8ZlOUK2pTwdC3BzMRn-7" target="Ik8ZlOUK2pTwdC3BzMRn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-7" value="คำนวนจากสูตร 1/2 คูณ ฐาน คูณ สูง" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ik8ZlOUK2pTwdC3BzMRn-9" target="Ik8ZlOUK2pTwdC3BzMRn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-9" value="ออกมาเป็นคำตอบค่าพื้นที่" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ik8ZlOUK2pTwdC3BzMRn-11" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
