@@ -4,7 +4,7 @@ int main( ) {
 
     int number , num = 9 , sum = 0 ;
     printf( "Enter number :" ) ;
-    scanf( " %d" , &number ) ;
+    scanf( "%d" , &number ) ;
 
     printf( "Series = " ) ;
     for (int  i = 0 ; i < number ; i++ ) {
