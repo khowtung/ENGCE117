@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+  <diagram name="Page-1" id="5e1hAiPTKNMBGjRkM0F9">
+    <mxGraphModel dx="1287" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dTNV6tioA85qyCrCxa6L-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-1" target="dTNV6tioA85qyCrCxa6L-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-1" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-2" target="dTNV6tioA85qyCrCxa6L-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-2" value="กำหนดตัวแปร&lt;div&gt;3 ตัว number num = 9&lt;/div&gt;&lt;div&gt;sum = 0&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-4" target="dTNV6tioA85qyCrCxa6L-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-4" value="รับค่าจากผู้ใช้ว่าจะให้มี&lt;div&gt;การบวกกี่ครั้ง&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-20" target="dTNV6tioA85qyCrCxa6L-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-6" value="แสดง Series" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-8" target="dTNV6tioA85qyCrCxa6L-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-8" target="dTNV6tioA85qyCrCxa6L-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="665" />
+              <mxPoint x="570" y="1180" />
+              <mxPoint x="440" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-8" value="วนรอบครบตามที่รับค่ามาไหม" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="590" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-10" value="ไม่จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-11" target="dTNV6tioA85qyCrCxa6L-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-11" value="แสดงค่าnum" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="800" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-13" target="dTNV6tioA85qyCrCxa6L-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-13" value="สูตร เอาsumบวกกับค่าnumที่กำหนด" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-15" target="dTNV6tioA85qyCrCxa6L-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-15" value="&lt;div&gt;เอาค่าnumที่กำหนดคูณ10 และบวก 9&lt;/div&gt;num = num * 10 +9&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-17" target="dTNV6tioA85qyCrCxa6L-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="1170" />
+              <mxPoint x="320" y="1170" />
+              <mxPoint x="320" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-17" value="แสดง &quot; + &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-6" target="dTNV6tioA85qyCrCxa6L-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="430" y="540" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-25" value="จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dTNV6tioA85qyCrCxa6L-26" target="dTNV6tioA85qyCrCxa6L-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-26" value="แสดงค่าของตัวเลขทั้งหมดที่บวกกัน" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTNV6tioA85qyCrCxa6L-27" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1300" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
