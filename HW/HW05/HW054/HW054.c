@@ -13,9 +13,9 @@ int main( ) {
         printf( " Number1 lower than Number2 " ) ;
     } else {
         printf(" Number1 equal Number2 " ) ;
-    }
+    } // end if
     
     
 
     return 0 ;
-}
+} // end function
