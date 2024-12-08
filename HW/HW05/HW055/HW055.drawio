@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+  <diagram name="Page-1" id="0wMtPUQD2U-VDGnOmYAX">
+    <mxGraphModel dx="1135" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nng_fQFRIJKCWhnPgjcW-1" target="nng_fQFRIJKCWhnPgjcW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-1" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nng_fQFRIJKCWhnPgjcW-2" target="nng_fQFRIJKCWhnPgjcW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-2" value="กำหนดตัวแปรnumber" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nng_fQFRIJKCWhnPgjcW-4" target="nng_fQFRIJKCWhnPgjcW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-4" value="รับค่าตัวเลข" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nng_fQFRIJKCWhnPgjcW-6" target="nng_fQFRIJKCWhnPgjcW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nng_fQFRIJKCWhnPgjcW-6" target="nng_fQFRIJKCWhnPgjcW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-6" value="ถ้าตัวเลขที่รับหาร2ได้เศษ0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nng_fQFRIJKCWhnPgjcW-8" target="nng_fQFRIJKCWhnPgjcW-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="801" y="530" />
+              <mxPoint x="801" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-8" value="is an even integer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="500" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nng_fQFRIJKCWhnPgjcW-10" target="nng_fQFRIJKCWhnPgjcW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-10" value="ถ้าไม่ได้เศษ0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nng_fQFRIJKCWhnPgjcW-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-12" value="is an odd integer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="720" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-15" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="910" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nng_fQFRIJKCWhnPgjcW-10" target="nng_fQFRIJKCWhnPgjcW-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="860" as="targetPoint" />
+            <mxPoint x="420" y="820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="410" y="850" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nng_fQFRIJKCWhnPgjcW-19" target="nng_fQFRIJKCWhnPgjcW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-23" value="จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-26" value="จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-27" value="ไม่จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nng_fQFRIJKCWhnPgjcW-28" value="ไม่จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
