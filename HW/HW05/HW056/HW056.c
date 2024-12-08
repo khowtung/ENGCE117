@@ -9,8 +9,8 @@ int main ( ) {
         printf( " Positive " ) ;
     } else {
         printf( " Negative " ) ;
-    }
+    } // end if
     
 
     return 0 ;
-}
+} // end function
