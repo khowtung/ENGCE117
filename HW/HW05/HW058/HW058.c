@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-int main() {
+int main( ) {
     int num1 , num2 , num3 ;
 
     // รับค่าจากผู้ใช้
-    printf( "Enter three numbers: " ) ;
     scanf( "%d %d %d" , &num1 , &num2 , &num3 ) ;
 
     // แสดงผลลำดับตัวเลข
