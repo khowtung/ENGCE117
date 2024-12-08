@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+  <diagram name="Page-1" id="4kYJgCM7O5lFa4tN22UN">
+    <mxGraphModel dx="1608" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VW-RrzRxefl3WJaxQGaT-1" target="VW-RrzRxefl3WJaxQGaT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-1" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VW-RrzRxefl3WJaxQGaT-2" target="VW-RrzRxefl3WJaxQGaT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-2" value="กำหนดตัวแปร num" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VW-RrzRxefl3WJaxQGaT-4" target="VW-RrzRxefl3WJaxQGaT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-4" value="รับค่าจากผู้ใช้" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VW-RrzRxefl3WJaxQGaT-6" target="VW-RrzRxefl3WJaxQGaT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VW-RrzRxefl3WJaxQGaT-6" target="VW-RrzRxefl3WJaxQGaT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-6" value="ถ้าตัวเลขที่รับมากกว่า0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VW-RrzRxefl3WJaxQGaT-8" target="VW-RrzRxefl3WJaxQGaT-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="771" y="560" />
+              <mxPoint x="771" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-8" value="Positive" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="595" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VW-RrzRxefl3WJaxQGaT-10" target="VW-RrzRxefl3WJaxQGaT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-10" value="ถ้าตัวเลขที่รับน้อยกว่า0" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="710" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VW-RrzRxefl3WJaxQGaT-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-12" value="Negative" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="595" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-14" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="960" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-15" value="จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-16" value="จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-17" value="ไม่จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-18" value="ไม่จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="415" y="890" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VW-RrzRxefl3WJaxQGaT-10" target="VW-RrzRxefl3WJaxQGaT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VW-RrzRxefl3WJaxQGaT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VW-RrzRxefl3WJaxQGaT-21" target="VW-RrzRxefl3WJaxQGaT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
