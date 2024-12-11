@@ -18,7 +18,7 @@ int main ( ) {
             i++ ;
         } // end for เอาไว้คูณเลข และแสดงเลขที่คูณถุงแม่ต
         numstart++ ;
-    }
+    } // end while
     
     return 0 ;
 } // end function 
