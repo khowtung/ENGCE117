@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="PEfB-1Pnk6GdNnfChvH0">
+    <mxGraphModel dx="965" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WJgqr20gJXIDi2ClU0rj-1" target="WJgqr20gJXIDi2ClU0rj-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-1" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="370" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WJgqr20gJXIDi2ClU0rj-2" target="WJgqr20gJXIDi2ClU0rj-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-2" value="กำหนดตัวแปร num&lt;div&gt;และ round&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="WJgqr20gJXIDi2ClU0rj-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-4" value="รับค่าตัวเลขคู่คี่" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WJgqr20gJXIDi2ClU0rj-6" target="WJgqr20gJXIDi2ClU0rj-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cicyDqt5I06mxYqR56EK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WJgqr20gJXIDi2ClU0rj-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="545" />
+              <mxPoint x="580" y="780" />
+              <mxPoint x="420" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-6" value="จำนวนround น้อยกว่าจำนวนที่กรอกไหม" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="340" y="470" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WJgqr20gJXIDi2ClU0rj-8" target="WJgqr20gJXIDi2ClU0rj-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="700" />
+              <mxPoint x="270" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-8" value="แสดง hello world&amp;nbsp;&lt;div&gt;ใช้เครื่องหมาย () หากเลขที่ผู้ใช้กรอกเป็นเลขคู่ และ [] หากเป็นเลขคี่&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="310" y="670" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-10" value="จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="410" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WJgqr20gJXIDi2ClU0rj-12" target="WJgqr20gJXIDi2ClU0rj-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WJgqr20gJXIDi2ClU0rj-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" parent="1" vertex="1">
+          <mxGeometry x="410" y="430" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cicyDqt5I06mxYqR56EK-1" value="ไม่จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cicyDqt5I06mxYqR56EK-3" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="830" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
