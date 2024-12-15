@@ -1,0 +1,184 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="QWCm_XVD68dJWF6vejXQ">
+    <mxGraphModel dx="965" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="seLeweZjlZhm59_Nfyna-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-2" target="seLeweZjlZhm59_Nfyna-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-2" value="เริ่ม" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-20" target="seLeweZjlZhm59_Nfyna-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-4" value="กำหนดตัวแปรจำนวนอาเรย์&lt;div&gt;อินเดก&lt;/div&gt;&lt;div&gt;แวรลู่&lt;/div&gt;&lt;div&gt;เทมป&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-6" target="seLeweZjlZhm59_Nfyna-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-6" target="seLeweZjlZhm59_Nfyna-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="561" y="330" />
+              <mxPoint x="561" y="1130" />
+              <mxPoint x="420" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-6" value="เป็น1ใช่ไหม" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-7" value="ไม่จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-8" value="จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-11" target="seLeweZjlZhm59_Nfyna-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-11" target="seLeweZjlZhm59_Nfyna-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="281" y="925" />
+              <mxPoint x="281" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-11" value="ถ้าพิม-1" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="865" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-13" target="seLeweZjlZhm59_Nfyna-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-13" value="แสดงค่าอินเดก" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-15" target="seLeweZjlZhm59_Nfyna-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-15" value="รับค่าแวรลู่" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-16" value="จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-17" value="เบรก" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-18" value="ไม่จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-4" target="seLeweZjlZhm59_Nfyna-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="200" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="410" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-22" target="seLeweZjlZhm59_Nfyna-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-22" value="เก็บค่าอินเดก" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="765" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-24" target="seLeweZjlZhm59_Nfyna-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="591" y="1280" />
+              <mxPoint x="591" y="1920" />
+              <mxPoint x="420" y="1920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-24" value="เรียงข้อมูลอินเดก&lt;div&gt;อินเดกวนครบรอบไหม&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1220" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-29" value="จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-30" value="ไม่จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-33" target="seLeweZjlZhm59_Nfyna-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-33" value="เรียงข้อมูลอินเดก&lt;div&gt;อินเดกวนครบรอบไหม&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1420" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-35" value="ไม่จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-36" target="seLeweZjlZhm59_Nfyna-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-36" value="ถ้าอาเรย์ i มากกว่าอาเรย์ j" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1620" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-38" value="จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-39" target="seLeweZjlZhm59_Nfyna-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="311" y="1850" />
+              <mxPoint x="311" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-39" value="temp = arr[ i ] ; arr[ i ] = arr[ j ] ; arr[ j ] = temp ;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1170" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-43" target="seLeweZjlZhm59_Nfyna-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-47" value="จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-49" value="ไม่จริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1635" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-51" target="seLeweZjlZhm59_Nfyna-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-51" value="แสดงค่าจากน้อยไปมาก" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1950" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seLeweZjlZhm59_Nfyna-52" target="seLeweZjlZhm59_Nfyna-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-52" value="แสดงค่าจากมากไปน้อย" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2090" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="seLeweZjlZhm59_Nfyna-54" value="จบ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="2190" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
