@@ -76,7 +76,7 @@ int main( ) {
                     arr[ j ] = -1 ; // ทำเครื่องหมายว่าเลขนี้ถูกนับไปแล้ว
                 }
             }
-            if ( count == 1) {
+            if ( count == 1 ) {
                 printf( "%d -> 1 value.\n" , arr[ i ] ) ;
                 } else {
                     printf( "%d -> %d values.\n" , arr[ i ] , count ) ;

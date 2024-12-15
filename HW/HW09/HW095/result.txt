@@ -1,0 +1,15 @@
+ Input N : 5
+Element[ 0 ] : 1
+Element[ 1 ] : 1
+Element[ 2 ] : 2
+Element[ 3 ] : 3
+Element[ 4 ] : 3
+Unique value : 2
+Input N : 6
+Element[ 0 ] : 9
+Element[ 1 ] : 9
+Element[ 2 ] : 5
+Element[ 3 ] : 6
+Element[ 4 ] : 2
+Element[ 5 ] : 1
+Unique value : 1 2 5 6
