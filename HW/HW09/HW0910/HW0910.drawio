@@ -1,0 +1,176 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="CSryuled7kxCBW0epYhK">
+    <mxGraphModel dx="772" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-1" value="เริ่ม" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="375" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ZyHK7XB1duiZH82V9LKm-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-4" target="ZyHK7XB1duiZH82V9LKm-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-4" value="กำหนดตัวแปร" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="365" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-6" target="ZyHK7XB1duiZH82V9LKm-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-6" value="รับจำนวนแถวและคอลัม" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="340" y="330" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-7" target="ZyHK7XB1duiZH82V9LKm-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-7" value="กำหนดตัวแปรอาเรย์และทรานโพส" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="365" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-15" target="ZyHK7XB1duiZH82V9LKm-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZyHK7XB1duiZH82V9LKm-16" target="ZyHK7XB1duiZH82V9LKm-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="560" as="targetPoint" />
+            <mxPoint x="430" y="946.828380766369" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="425" y="900" />
+              <mxPoint x="300" y="900" />
+              <mxPoint x="300" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-11" target="ZyHK7XB1duiZH82V9LKm-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="680" />
+              <mxPoint x="530" y="920" />
+              <mxPoint x="425" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-11" value="กรอกค่าอาเรย์ครบไหม" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="350" y="610" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-12" value="ไม่ใช่" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-13" value="ใช่" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" parent="1" vertex="1">
+          <mxGeometry x="415" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-16" value="กรอกค่าอาเรย์" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="365" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZyHK7XB1duiZH82V9LKm-19" target="ZyHK7XB1duiZH82V9LKm-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="1380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="531" y="1050" />
+              <mxPoint x="531" y="1330" />
+              <mxPoint x="430" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-19" value="แสดงผลอาเรย์ครบไหม" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="350" y="980" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-21" value="ไม่ใช่" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="365" y="1110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-22" value="ใช่" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZyHK7XB1duiZH82V9LKm-23" target="ZyHK7XB1duiZH82V9LKm-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="1310" />
+              <mxPoint x="310" y="1310" />
+              <mxPoint x="310" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-23" value="แสดงค่าอาเรย์" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="365" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" parent="1" vertex="1">
+          <mxGeometry x="415" y="940" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429.94" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429.94" y="1840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535.94" y="1510" />
+              <mxPoint x="535.94" y="1790" />
+              <mxPoint x="429.94" y="1790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-30" value="ทำการทรานโพสเสร็จไหม" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="354.94" y="1440" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-31" value="ไม่ใช่" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="369.94" y="1570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-32" value="ใช่" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="474.94" y="1460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ZyHK7XB1duiZH82V9LKm-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404.94" y="1410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="429.94" y="1770" />
+              <mxPoint x="314.94" y="1770" />
+              <mxPoint x="314.94" y="1410" />
+            </Array>
+            <mxPoint x="429.9047619047618" y="1700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-36" target="ZyHK7XB1duiZH82V9LKm-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" parent="1" vertex="1">
+          <mxGeometry x="419.94" y="1400" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-38" value="ทรานโพสคืออาเรย์" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="369.94" y="1640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZyHK7XB1duiZH82V9LKm-39" target="ZyHK7XB1duiZH82V9LKm-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-39" value="แสดง่าที่ทรานโพสแล้ว" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="350" y="1840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyHK7XB1duiZH82V9LKm-40" value="จบ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="380" y="1940" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
