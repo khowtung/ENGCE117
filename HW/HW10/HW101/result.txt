@@ -1,0 +1,4 @@
+Enter your full name : Kittinan Noimanee
+Name : Kittinan Noimanee
+Enter your full name : Visual Studio Code
+Name : Visual Studio Code
