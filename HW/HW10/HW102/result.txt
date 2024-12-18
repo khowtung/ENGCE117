@@ -1,0 +1,18 @@
+Enter 1 character :
+U
+v
+G
+k
+R
+m
+q
+Y
+String = U v G k R m q
+Enter 1 character :
+H
+e
+l
+l
+o
+y
+String = H e l l o
