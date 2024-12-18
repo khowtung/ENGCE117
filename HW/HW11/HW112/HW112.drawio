@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="lPo6tkpCFxx8gcuZRdVv">
+    <mxGraphModel dx="1815" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a3cuKvUyUa16-OqNItrk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-1" target="a3cuKvUyUa16-OqNItrk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-1" value="เริ่ม" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-2" target="a3cuKvUyUa16-OqNItrk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-2" value="กำหนดตัวแปรไว้รับค่าชื่อกับอายุ" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-10" target="a3cuKvUyUa16-OqNItrk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-10" value="ข้อมูลคนที่1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-12" target="a3cuKvUyUa16-OqNItrk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-12" value="เริ่มข้อมูลคนที่1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-13" target="a3cuKvUyUa16-OqNItrk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-13" value="รับชื่อ" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-15" target="a3cuKvUyUa16-OqNItrk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-15" value="รับอายุ" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-17" value="จบข้อมูลคนที่1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-20" target="a3cuKvUyUa16-OqNItrk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-20" value="เริ่มข้อมูลคนที่2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-22" target="a3cuKvUyUa16-OqNItrk-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-22" value="รับชื่อ" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-24" target="a3cuKvUyUa16-OqNItrk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-24" value="รับอายุ" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-25" value="จบข้อมูลคนที่2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-26" target="a3cuKvUyUa16-OqNItrk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-26" value="ข้อมูลคนที่2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-28" target="a3cuKvUyUa16-OqNItrk-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-28" value="แสดงค่า" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-30" target="a3cuKvUyUa16-OqNItrk-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-30" value="สลับอายุ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-32" target="a3cuKvUyUa16-OqNItrk-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-32" value="เริ่มสลับอายุ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-33" target="a3cuKvUyUa16-OqNItrk-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-33" value="กำหนดตัวแปร" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a3cuKvUyUa16-OqNItrk-35" target="a3cuKvUyUa16-OqNItrk-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-35" value="สูตรเอาอายุ1เท่ากับอายุ2 แล้วแสดง" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-37" value="จบสลับอายุ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a3cuKvUyUa16-OqNItrk-39" value="จบ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="780" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
