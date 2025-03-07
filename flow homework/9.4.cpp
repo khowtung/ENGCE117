@@ -64,7 +64,7 @@ int main( ) {
     for ( int i = 0 ; i < N ; i++ ) {
         printf( "Element[ %d ] : " , i ) ;
         scanf( "%d" , &arr[ i ] ) ;
-    }
+    } //end for
 
     // แสดงผลลัพธ์ของจำนวนชุดตัวเลขที่ซ้ำกัน
     for ( int i = 0 ; i < N ; i++ ) {
@@ -74,15 +74,15 @@ int main( ) {
                 if ( arr[ i ] == arr[ j ] ) {
                     count++ ; // เพิ่มจำนวนถ้ามีค่าซ้ำ
                     arr[ j ] = -1 ; // ทำเครื่องหมายว่าเลขนี้ถูกนับไปแล้ว
-                }
-            }
+                } //end if
+            } //end for
             if ( count == 1 ) {
                 printf( "%d -> 1 value.\n" , arr[ i ] ) ;
                 } else {
                     printf( "%d -> %d values.\n" , arr[ i ] , count ) ;
-                }
-        }
-    }
+                } //end if
+        } //end if
+    } //end for
 
     return 0 ;
-}
+} //end function

@@ -33,7 +33,7 @@ int main( ) {
             if (num % j == 0) {
                 answer = 0; // ไม่ใช่จำนวนเฉพาะ
                 break;
-            }
+            } //end if
             j++;
         } while (j * j <= num);
 
@@ -45,5 +45,5 @@ int main( ) {
     } while (num >= 2); // เงื่อนไขของลูปหลัก
 
     return 0;
-}
+} //end function
 

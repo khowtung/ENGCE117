@@ -57,11 +57,14 @@ void readtext( ) ;
 void sortWords( char words[ 20 ][ 20 ] , int count , int ascending ) ;
 
 int main( ) {
+
     readtext( ) ;
     return 0 ;
-}
+
+} //end function
 
 void readtext( ) {
+
     char words[ 20 ][ 20 ] ;
     int count = 0 ;
     
@@ -69,11 +72,11 @@ void readtext( ) {
     if ( fp == NULL ) {
         printf( "error\n" ) ;
         return ;
-    }
+    } //end if
     
     while ( count < 20 && fscanf( fp , "%19s" , words[ count ] ) != EOF ) {
         count++ ;
-    }
+    } //end while
     fclose( fp ) ;
     
     // Display normal order
@@ -81,7 +84,7 @@ void readtext( ) {
     for ( int i = 0 ; i < count ; i++ ) {
         printf( "%s" , words[ i ] ) ;
         if ( i < count - 1 ) printf( ", " ) ;
-    }
+    } //end if
     printf( " .\n" ) ;
     
     // Sort A to Z
@@ -90,7 +93,7 @@ void readtext( ) {
     for ( int i = 0 ; i < count ; i++ ) {
         printf( "%s" , words[ i ] ) ;
         if ( i < count - 1 ) printf( ", " ) ;
-    }
+    } //end for
     printf( " .\n" ) ;
     
     // Sort Z to A
@@ -99,9 +102,9 @@ void readtext( ) {
     for ( int i = 0 ; i < count ; i++ ) {
         printf( "%s" , words[ i ] ) ;
         if ( i < count - 1 ) printf( ", " ) ;
-    }
+    } //end for
     printf( " .\n" ) ;
-}
+} //end function 
 
 void sortWords( char words[ 20 ][ 20 ] , int count , int ascending ) {
     char temp[ 20 ] ;
@@ -111,10 +114,10 @@ void sortWords( char words[ 20 ][ 20 ] , int count , int ascending ) {
                 strcpy( temp , words[ i ] ) ;
                 strcpy( words[ i ] , words[ j ] ) ;
                 strcpy( words[ j ] , temp ) ;
-            }
-        }
-    }
-}
+            } //end if
+        } //end for
+    } //end for
+} //end function
 
 
 

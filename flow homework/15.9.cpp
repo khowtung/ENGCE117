@@ -49,7 +49,7 @@ void readtext ( ) {
         FILE *fp ;
     fp = fopen( "a15-9.txt" , "r" ) ;
     if ( fp == NULL ) {
-        printf( " ERR " ) ;
+        printf( " Error " ) ;
     }//end if err
 
     char name ;
@@ -63,7 +63,7 @@ void readtext ( ) {
     } // end while
     fclose( fp ) ;
 
-}
+} //end function
 
 void reverse ( int num ) {
     num += 6 ;
@@ -74,9 +74,7 @@ void reverse ( int num ) {
         printf( " %c" , num ) ;
     } else {
         printf( " " ) ;
-    }
+    } //end if
     // printf( " %c" , num ) ;
 
-
-
-}
+} //end function

@@ -54,7 +54,7 @@ int main( ) {
     for ( int i = 0 ; i < N ; i++ ) {
         printf( "Element[ %d ] : " , i ) ;
         scanf( "%d" , &arr[ i ] ) ;
-    }
+    } //end for
 
     // เก็บค่าที่ไม่ซ้ำลงในอาเรย์ใหม่
     int unique[ N ] ;  // สำหรับเก็บค่าที่ไม่ซ้ำ
@@ -68,14 +68,14 @@ int main( ) {
                 if ( arr[ i ] == arr[ j ] ) {
                     count++ ; // เพิ่มจำนวนถ้ามีค่าซ้ำ
                     arr[ j ] = -1 ; // ทำเครื่องหมายว่าเลขนี้ถูกนับไปแล้ว
-                }
-            }
+                } //end if
+            } //end for
             if ( count == 1 ) {
                 unique[ unique_count ] = arr[ i ] ;
                 unique_count++ ;
-                }
-        }
-    }
+                } //end if
+        } //end if
+    } //end for
 
     // เรียงข้อมูลจากน้อยไปมาก
     for ( int i = 0 ; i < unique_count - 1 ; i++ ) {
@@ -85,16 +85,16 @@ int main( ) {
                 int temp = unique[ i ] ;
                 unique[ i ] = unique[ j ] ;
                 unique[ j ] = temp ;
-            }
-        }
-    }
+            } //end if
+        } //end for
+    } //end for
 
     // แสดงค่าที่ไม่ซ้ำ
     printf( "Unique value : " ) ;
     for ( int i = 0 ; i < unique_count ; i++ ) {
         printf( "%d " , unique[ i ] ) ;
-    }
+    } //end for
     printf("\n");
 
     return 0 ;
-}
+} //end function
